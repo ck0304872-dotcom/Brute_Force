@@ -43,7 +43,7 @@ python3 Brute_Force.py -T Account_Twitter -l File_list -X proxy-list.txt
 ```
 ## BruteForce Facebook Attack
 
-```bash
+```bashhttps://www.facebook.com/share/17Fk1Hqkku/ 
 python3 Brute_Force.py -f Account_facebook -l File_list
 python3 Brute_Force.py -f Account_facebook -l File_list -X proxy-list.txt
 ```
